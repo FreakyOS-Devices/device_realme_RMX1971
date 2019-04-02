@@ -464,7 +464,7 @@ PRODUCT_PACKAGES += \
 
 # VNDK-SP
 PRODUCT_PACKAGES += \
-    vndk-sp
+    vndk_package
 
 # Wallpapers
 PRODUCT_PACKAGES += \
